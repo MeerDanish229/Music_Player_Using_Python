@@ -2,7 +2,8 @@
 
 ## Screenshot
 
-![Screenshot (52)](https://github.com/MeerDanish229/Url_Shortener_Python/assets/128418303/7de4b9a5-8273-4192-8fab-7b7307798808)
+![Screenshot (53)](https://github.com/user-attachments/assets/9dbb0676-4a4b-4307-a157-ce99e4b571c9)
+
 
 
 
