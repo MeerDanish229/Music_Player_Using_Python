@@ -11,14 +11,14 @@ I'm thrilled to share that I'm currently learning Python and working on my inter
 
 It's a simple yet functional application that allows users to add songs to a playlist, select and play them, and use basic controls like play, pause, resume, stop, previous, and next. Here's a quick preview of the project:
 
-# Technologies Used
+## Technologies Used
 
 Python: The backend logic for handling music playback.
 Tkinter: The GUI library used to create the music player's user interface.
 Pygame: Used for handling audio playback.
 
-Usage
-🎵 Music Player:
+## Usage
+# 🎵 Music Player:
 1️⃣ Add Songs: Click "File" in the menu bar and select "Add Song" to add songs to your playlist.
 2️⃣ Delete Songs: Click "File" in the menu bar and select "Delete Song" to remove a selected song from your playlist.
 3️⃣ Play: Select a song from the playlist and click "Play" to start playback.
