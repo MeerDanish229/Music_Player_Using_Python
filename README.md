@@ -18,7 +18,7 @@ Tkinter: The GUI library used to create the music player's user interface.
 Pygame: Used for handling audio playback.
 
 ## Usage
-# 🎵 Music Player:
+### 🎵 Music Player:
 1️⃣ Add Songs: Click "File" in the menu bar and select "Add Song" to add songs to your playlist.
 2️⃣ Delete Songs: Click "File" in the menu bar and select "Delete Song" to remove a selected song from your playlist.
 3️⃣ Play: Select a song from the playlist and click "Play" to start playback.
